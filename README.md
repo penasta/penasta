@@ -1,6 +1,6 @@
 ## Bem vindo(a)!
 
-Sou estudante de estatística na Universidade de Brasília - UnB.
+Formado em estatística na Universidade de Brasília - UnB. Mestrando em estatística pela UnB.
 
 Aqui você encontrará meus repositórios pessoais, referente principalmente ao desenvolvido ao longo do curso de estatística, como análises multivariadas, séries temporais, dados categorizados, inferência bayesiana — além de trabalhos apresentados e projetos desenvolvidos por interesse pessoal.
 
